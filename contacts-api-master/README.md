@@ -12,4 +12,4 @@ Primeiro contato com Java e Spring Boot.
 
 ## Autor
 
-* **Rodrigo Martins** - [leoveeph@git](https://github.com/HiperSpell)
+* **Rodrigo Martins** - [@git](https://github.com/HiperSpell)
